@@ -25,6 +25,14 @@
   ## Requirements
 Tested on Python 3.10
 
+## Quickstart
+
+For installing graphene, just run this command in your shell
+
+```bash
+pip install "graphene-django>=3"
+```
+
 `pip install -r requirements.txt` 
   ## Clone Repo
 
