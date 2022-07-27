@@ -1,6 +1,6 @@
 <h1>Scraper for KP P&D News</h1>
-<h3>Requirements
-  </h3>
+
+##Requirements
 Tested on Python 3.10
 
 `pip install -r requirements.txt` 
