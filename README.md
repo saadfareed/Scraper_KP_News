@@ -1,8 +1,6 @@
 # Scraper for KP P&D News
 
-Docs
+
+News Website
 ----
-
-Check out `The Docs`_ for full and detailed guides using newspaper.
-
-Interested in adding a new language for us? Refer to: `Docs - Adding new languages <https://newspaper.readthedocs.io/en/latest/user_guide/advanced.html#adding-new-languages>`_
+Check out NEWS Webiste <a src="https://pndkp.gov.pk/blog-grid/">
