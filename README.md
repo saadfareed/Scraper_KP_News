@@ -1,9 +1,9 @@
 <h1>Scraper for KP P&D News</h1>
-<li>Step#2
+<ol>Step#2
   <p>
   <a href="https://pndkp.gov.pk/blog-grid/">NEWS WEBSITE</a>
 </p>
-</li>
+</ol>
 
 
 <br>
