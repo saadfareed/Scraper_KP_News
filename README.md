@@ -1,6 +1,11 @@
 <h1>Scraper for KP P&D News</h1>
 <h3>
-Saad
+The main purpose of this code is to Scrap News and then use it on our website. Following 
+
+## Requirements
+Tested on Python 3.6+
+
+`pip install -r requirements.txt` 
 
 </h3>
 <details><summary>NEWS WEBSITE</summary>
@@ -11,6 +16,7 @@ Saad
 </p>
 </details>
 <br>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/saad-fareed/"><img src="https://img.shields.io/badge/-Saad%20Fareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:saadfareed632@gmail.com"><img src="https://img.shields.io/badge/-saadfareed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
