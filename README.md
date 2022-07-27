@@ -1,13 +1,8 @@
 <h1>Scraper for KP P&D News</h1>
-<h3>
-The main purpose of this code is to Scrap News and then use it on our website. Following are the steps
-
 ## Requirements
 Tested on Python 3.10
 
 `pip install -r requirements.txt` 
-
-</h3>
 <details><summary>NEWS WEBSITE</summary>
 <p>
   <a href="https://pndkp.gov.pk/blog-grid/">Link</a>
