@@ -1,5 +1,15 @@
 <h1>Scraper for KP P&D News
 </h1>
+<p>
+  This code scrap the news from KP P&D News side and place it in excel file so that in future we will use it for our side.
+  We are scraping following attributes:
+  <li>
+    Description as Worktype
+  </li>
+   <li>
+    Image link as filepath
+  </li>
+  </p>
 
   ## Requirements
 Tested on Python 3.10
