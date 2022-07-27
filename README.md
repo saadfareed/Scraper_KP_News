@@ -1,14 +1,12 @@
 <h1>Scraper for KP P&D News</h1>
-<ol>Saad
-  <p>
+
+<details><summary>Website</summary>
+<p>
   <a href="https://pndkp.gov.pk/blog-grid/">NEWS WEBSITE</a>
 </p>
-</oi>
-
-
-<br>
 
 </p>
+</details>
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/saad-fareed/"><img src="https://img.shields.io/badge/-Saad%20Fareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
