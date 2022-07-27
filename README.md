@@ -27,6 +27,12 @@ Tested on Python 3.10
 
 `pip install -r requirements.txt` 
 <details><summary>NEWS WEBSITE</summary>
+  
+    ## Clone Repo
+
+`https://github.com/saadfareed/Scraper_KP_News.git` 
+<details><summary>NEWS WEBSITE</summary>
+  
 <p>
   <a href="https://pndkp.gov.pk/blog-grid/">Link</a>
 </p>
