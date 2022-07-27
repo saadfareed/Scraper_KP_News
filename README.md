@@ -9,6 +9,16 @@
    <li>
     Image link as filepath
   </li>
+  All other attributes are the requiremenst of our Database just like:
+  <li>
+    ID
+  </li>
+    <li>
+      Location
+  </li>
+  <li>
+    Type
+  </li>
   </p>
 
   ## Requirements
