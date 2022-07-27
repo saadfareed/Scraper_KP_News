@@ -32,6 +32,11 @@ https://github.com/saadfareed/Scraper_KP_News.git
 Tested on Python 3.10
 `pip install -r requirements.txt` 
 
+## How to run
+```bash
+python KP_News_Scraper.py
+```
+
 <details><summary>NEWS WEBSITE</summary>
 <p>
   <a href="https://pndkp.gov.pk/blog-grid/">Link</a>
