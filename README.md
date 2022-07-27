@@ -7,7 +7,6 @@
 <br>
 
 </p>
-<h2 >🤝🏻 &nbsp;Connect with Me:
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/saad-fareed/"><img src="https://img.shields.io/badge/-Saad%20Fareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
