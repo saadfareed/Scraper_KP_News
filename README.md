@@ -21,22 +21,16 @@
     Type
   </li>
   </p>
-
-  ## Requirements
-Tested on Python 3.10
-
-## Quickstart
-
-For installing graphene, just run this command in your shell
+  
+  ## Clone Repo
+For cloning Repo, just run this command in your shell or terminal
 
 ```bash
-pip install "graphene-django>=3"
+https://github.com/saadfareed/Scraper_KP_News.git
 ```
-
+## Requirements
+Tested on Python 3.10
 `pip install -r requirements.txt` 
-  ## Clone Repo
-
-`https://github.com/saadfareed/Scraper_KP_News.git` 
 
 <details><summary>NEWS WEBSITE</summary>
 <p>
